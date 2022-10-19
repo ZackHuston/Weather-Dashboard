@@ -1,0 +1,26 @@
+:root {
+    --textline: center;
+}
+
+* {
+    font-family: arial;
+}
+
+body {
+    background-color: grey;
+}
+
+h1 {
+    text-align: var(--textline);
+    color: rgba(0, 229, 255, 0.757);
+}
+
+.first_p {
+    font-size: 14px;
+    text-align: var(--textline);
+    margin-left: 160px;
+    margin-right: 160px;
+    color: white;
+}
+
+
